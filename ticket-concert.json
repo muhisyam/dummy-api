@@ -1,0 +1,263 @@
+{
+    "meta": {
+        "message": "OK",
+        "status_code": "200"
+    },
+    "data": [
+        {
+            "id": 1,
+            "slug": "mfm-radio-on-stage-festival",
+            "nama_konser": "MFM Radio On Stage Festival",
+            "penyelenggara": "Radio MFM Malang",
+            "alamat": "Jalan Terusan Candi Kalasan, Mojolangu, Malang City, East Java, Indonesia",
+            "nama_tempat": "Lapangan STIE Malangkucecwara (Kampus ABM) Malang",
+            "tanggal_mulai": "2024-06-14",
+            "waktu_mulai": "17:00:00",
+            "tanggal_selesai": "2024-06-14",
+            "waktu_selesai": "23:00:00",
+            "deskripsi": "Sebuah Konser yang sudah ke 3 kalinya sebagai Perayaan Ulang Tahun Ke 22 Tahun MFM Radio &amp; Anniversary 56 Tahun STIE Malangkucecwara, Dilaksanakan di Lapangan STIE Malangkucecwara Malang di Tanggal 14 Juni 2024 dengan Line Up Anneth, Danar Widianto, 2nd Chance, Rony Parulian, Nikita Mawarni, Faith, Mark Natama, Awdella, Nyoman Paul, Syarla, Nuca, Samuel Cipta. Buruan amankan tiketmu sekarang buat ketemu mereka di MFM On Stage Festival 2024",
+            "gambar_banner": "https://i.ibb.co.com/cbzWH4K/6c88059d2a5d7b7579b40846a4e18e46243e6cfd-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "VIP",
+                "harga": 100000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "Presale 1",
+                "harga": 50000,
+                "limit_max": 5
+            }
+            ]
+        },
+        {
+            "id": 2,
+            "slug": "keroncong-plesiran-2024",
+            "nama_konser": "KERONCONG PLESIRAN 2024",
+            "penyelenggara": "Keroncong Plesiran",
+            "alamat": "Hutan Pinus Asri, Jalan Hutan Pinus Nganjir, Sukorame, Mangunan, Bantul Regency, Special Region of Yogyakarta, Indonesia",
+            "nama_tempat": "PANGGUNG TERBUKA TELAGA MARDIGDO HUTAN PINUSASRI MANGUNAN, YOGYAKARTA",
+            "tanggal_mulai": "2024-07-20",
+            "waktu_mulai": "12:00:00",
+            "tanggal_selesai": "2024-07-20",
+            "waktu_selesai": "23:00:00",
+            "deskripsi": "Kendala pembelian tiket bisa menghubungi sekre.keroncongplesiran@gmail.com dengan subjek “Kendala tiket” dan mengirim bukti screenshoot atau melalui Hotline 082220757150. Saya telah membaca dan memahami syarat dan ketentuan membeli e-tiket event Keroncong Plesiran Vol 8.",
+            "gambar_banner": "https://i.ibb.co.com/YRSyh9H/2bc12c8e0a3a9c3edc2ad22180c68ef5c362a391-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "EARLY BIRD PLESIRAN",
+                "harga": 250000,
+                "limit_max": 4
+            },
+            {
+                "tipe": "EARLY BIRD FESTIVAL",
+                "harga": 100000,
+                "limit_max": 4
+            }
+            ]
+        },
+        {
+            "id": 3,
+            "slug": "narrow-head-live-in-jakarta",
+            "nama_konser": "Narrow Head Live in Jakarta",
+            "penyelenggara": "Trueside Jakarta",
+            "alamat": "Toba Dream Jakarta, Jalan Doktor Saharjo, RT.1\\/RW.7, Menteng Atas, South Jakarta City, Jakarta, Indonesia",
+            "nama_tempat": "Toba Dream",
+            "tanggal_mulai": "2024-06-27",
+            "waktu_mulai": "13:00:00",
+            "tanggal_selesai": "2024-06-27",
+            "waktu_selesai": "23:00:00",
+            "deskripsi": "Narrow Head live in Jakarta, Presented and Organized by Trueside jakarta & Set The Fire Records. In order for the purchaser and/or holder (hereinafter referred to as you “You” or “Your”) of a valid wristband or ticket (“Ticket”) to enter the event (the “Event”), You must possess a valid Ticket that permits access to the Event and check in at marked locations during specified time periods.",
+            "gambar_banner": "https://i.ibb.co.com/grs4v2m/0557cacb2c2fe0b2aad2ba353a17bd6140c77fe7-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "Early Bird",
+                "harga": 175000,
+                "limit_max": 2
+            }
+            ]
+        },
+        {
+            "id": 4,
+            "slug": "rhapsodie-with-scraft",
+            "nama_konser": "Rhapsodie With Scraft 2024",
+            "penyelenggara": "SMA NEGERI 61 JAKARTA",
+            "alamat": "Jakarta, Indonesia",
+            "nama_tempat": "TBA",
+            "tanggal_mulai": "2024-09-07",
+            "waktu_mulai": "14:00:00",
+            "tanggal_selesai": "2024-09-07",
+            "waktu_selesai": "22:00:00",
+            "deskripsi": "Narrow Head live in Jakarta, Presented and Organized by Trueside jakarta & Set The Fire Records. In order for the purchaser and/or holder (hereinafter referred to as you “You” or “Your”) of a valid wristband or ticket (“Ticket”) to enter the event (the “Event”), You must possess a valid Ticket that permits access to the Event and check in at marked locations during specified time periods.",
+            "gambar_banner": "https://i.ibb.co.com/sgrvM4j/affb1131f3d99e45744ace2dcdd3ba4f6b043a4b-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "Early Bird",
+                "harga": 60000,
+                "limit_max": 2
+            }
+            ]
+        },
+        {
+            "id": 5,
+            "slug": "entrepreneur-creative-project",
+            "nama_konser": "Entrepreneur Creative Project #8",
+            "penyelenggara": "Fakultas Ekonomi dan Bisnis Universitas Muhammadiyah Purwokerto",
+            "alamat": "Jl. KH. Ahmad Dahlan, Dusun III, Dukuhwaluh, Banyumas Regency, Central Java, Indonesia",
+            "nama_tempat": "Universitas Muhammadiyah Purwokerto Kampus 1",
+            "tanggal_mulai": "2024-06-09",
+            "waktu_mulai": "16:00:00",
+            "tanggal_selesai": "2024-06-09",
+            "waktu_selesai": "24:00:00",
+            "deskripsi": "Saat acara berlangsung dilarang membuat kericuhan, tidak ada kamar mandi di area venue, segala bentuk barang-barang termasuk kendaraan bukan tanggung jawab dari panitia, barang yang sudah di sita tidak bisa dikembalikan.",
+            "gambar_banner": "https://i.ibb.co.com/9r1FXXK/6ecd161a79098c5721dc747a42e52276d3e024d4-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "Festival",
+                "harga": 200000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "VIP",
+                "harga": 275000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "Early Bird VIP",
+                "harga": 250000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "Early Bird Festival",
+                "harga": 175000,
+                "limit_max": 5
+            }
+            ]
+        },
+        {
+            "id": 6,
+            "slug": "soul-intimate-concert-1",
+            "nama_konser": "SOUL Intimate Concert 3.0",
+            "penyelenggara": "Bozz Event",
+            "alamat": "Kota Kasablanka, Jalan Raya Casablanca, Menteng Dalam, South Jakarta City, Jakarta, Indonesia",
+            "nama_tempat": "The Kasablanka Main Hall",
+            "tanggal_mulai": "2024-09-14",
+            "waktu_mulai": "17:00:00",
+            "tanggal_selesai": "2024-09-14",
+            "waktu_selesai": "24:00:00",
+            "deskripsi": "SOUL Intimate Concert 3.0 : Tone of Harmony.",
+            "gambar_banner": "https://i.ibb.co.com/ykHq3cR/361f907cb08a0ad28971d5da1d5fb8a2f834e88f-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "CAT 1 - PRESALE",
+                "harga": 2750000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "CAT 2 - PRESALE",
+                "harga": 2600000,
+                "limit_max": 5
+            }
+            ]
+        },
+        {
+            "id": 7,
+            "slug": "rendezvous-2024",
+            "nama_konser": "RENDEZVOUS 2024",
+            "penyelenggara": "SMA Labschool Cirendeu",
+            "alamat": "Jl. Pintu Satu Senayan, RT.1\\/RW.3, Gelora, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia",
+            "nama_tempat": "Basketball Hall Senayan",
+            "tanggal_mulai": "2024-07-27",
+            "waktu_mulai": "12:00:00",
+            "tanggal_selesai": "2024-07-27",
+            "waktu_selesai": "24:00:00",
+            "deskripsi": "RENDEZVOUS merupakan acara pentas seni SMA Labschool Cirendeu yang diselenggarakan secara rutin setiap tahun. Tahun ini merupakan tahun ketiga pentas seni ini diselenggarakan dengan mengusung tema \"Merry Go Roundezvous\"",
+            "gambar_banner": "https://i.ibb.co.com/mykJyFF/aa465b4e70b21818b392ba7b5fe1478646ddc760-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "Presale 2 Festival",
+                "harga": 255000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "Presale 2 Tribune A",
+                "harga": 225000,
+                "limit_max": 5
+            }
+            ]
+        },
+        {
+            "id": 8,
+            "slug": "datta-phoria-vol.2",
+            "nama_konser": "D'ATTA PHORIA Vol.2",
+            "penyelenggara": "D'ATTA PRODUCTION",
+            "alamat": "Sumenep, Dalem Anyar, Bangselok, Kabupaten Sumenep, Jawa Timur, Indonesia",
+            "nama_tempat": "Sumenep - Madura",
+            "tanggal_mulai": "2024-07-14",
+            "waktu_mulai": "15:00:00",
+            "tanggal_selesai": "2024-07-14",
+            "waktu_selesai": "24:00:00",
+            "deskripsi": "Acara Konser Musik Terkeren Yang Ada Di Kota SUMENEP - Madura",
+            "gambar_banner": "https://i.ibb.co.com/g3yPJ8D/c9cb1fa147e0a551897ad58963add2550b0765d6-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "PRESALE 1 (Fest B)",
+                "harga": 65000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "PRESALE 1 (Fest A)",
+                "harga": 95000,
+                "limit_max": 5
+            }
+            ]
+        },
+        {
+            "id": 9,
+            "slug": "sounds-of-soematra",
+            "nama_konser": "Sounds Of Soematra",
+            "penyelenggara": "PT ALPHA KREATIF ENTERTAINMEN",
+            "alamat": "PKOR Lampung, Kedaton, Bandar Lampung City, Lampung, Indonesia",
+            "nama_tempat": "PKOR Lampung",
+            "tanggal_mulai": "2024-07-19",
+            "waktu_mulai": "15:00:00",
+            "tanggal_selesai": "2024-07-19",
+            "waktu_selesai": "24:00:00",
+            "deskripsi": "Acara Konser Musik Terkeren Yang Ada Di Kota SUMENEP - Madura",
+            "gambar_banner": "https://i.ibb.co.com/g3yPJ8D/c9cb1fa147e0a551897ad58963add2550b0765d6-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "EARLY BIRD (Festival Bubrah)",
+                "harga": 69000,
+                "limit_max": 5
+            },
+            {
+                "tipe": "EARLY BIRD (Festival Ambyar)",
+                "harga": 99000,
+                "limit_max": 5
+            }
+            ]
+        },
+        {
+            "id": 10,
+            "slug": "closing-ceremony-civil-festival-2024",
+            "nama_konser": "Civil Festival Closing Ceremony 2024",
+            "penyelenggara": "Himpunan Mahasiswa Jurusan Teknik Sipil UTY",
+            "alamat": "Jalan Parangtritis No.KM 5, Tarudan, Bangunharjo, Bantul Regency, Special Region of Yogyakarta, Indonesia",
+            "nama_tempat": "Panggung Alpha Bravo Enterprise I",
+            "tanggal_mulai": "2024-07-06",
+            "waktu_mulai": "15:00:00",
+            "tanggal_selesai": "2024-07-06",
+            "waktu_selesai": "24:00:00",
+            "deskripsi": "Civil Festival Closing ceremony hadir kembali",
+            "gambar_banner": "https://i.ibb.co.com/GtGVtXw/8407316a53c1cbe1b3460e05b6b69e8050b4f30e-png.webp",
+            "list_tiket": [
+            {
+                "tipe": "PRESALE 1",
+                "harga": 40000,
+                "limit_max": 5
+            }
+            ]
+        }
+    ]
+}
